@@ -5,6 +5,7 @@ class Algorithms {
     //nest_permutation - użyć
 private:
 
+
 public:
 
     //sortuje od najmniejszego do najwiekszego po d
